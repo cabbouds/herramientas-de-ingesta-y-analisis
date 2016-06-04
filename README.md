@@ -33,3 +33,8 @@ export FLUME_CLASSPATH=$FLUME_CONF_DIR
 export PATH=$PATH:$FLUME_HOME/bin
 export JAVA_HOME=/usr/lib/jvm/java-1.7.0-openjdk-amd64
 ```
+
+###Instalación de Postgres+Postgis, R, ruby y demás
+Miguel Escalante tiene unos buenos scripts en bash para instalar muchas cosas. Yo los uso como referencia.
+
+https://github.com/Skalas/massive-adventure-ubuntu
